@@ -1,7 +1,7 @@
 # my_spacex_project_dash
 For the SpaceX Falcon 9 project, some interactive charts are generated using Plotly Dash.
 
-📙 Juper-Dash is used [in the Python script](https://github.com/wangtuguahhh/my_spacex_project_dash/blob/b26fdb503618ea4dca20217078f59ede37b022ba/my_spacex_jupyter_dash.ipynb).
+📙 Juper-Dash is used [in the Python script](https://github.com/wangtuguahhh/my_spacex_project_dash/blob/b3002ebe354c9d502a7f7f5da3337a1a1499462c/my_spacex_jupyter_dash.ipynb).
 
 🎉 The dashboard includes:
 * Successful Landing Rate by Launch Site
