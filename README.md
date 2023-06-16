@@ -4,6 +4,7 @@ For the SpaceX Falcon 9 project, some interactive charts are generated using Plo
 📙 Juper-Dash is used [in the Python script](https://github.com/wangtuguahhh/my_spacex_project_dash/blob/b3002ebe354c9d502a7f7f5da3337a1a1499462c/my_spacex_jupyter_dash.ipynb).
 
 📚 Data:
+Data are from IBM Data Science training program.
 [Download training data](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_dash.csv)
 
 🎉 The dashboard includes:
